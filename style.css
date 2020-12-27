@@ -1,0 +1,55 @@
+body
+	{
+		background-color: rosybrown;
+	}
+
+p
+	{
+	background-color: plum;
+	font-family: courier; cursive;
+	font-size: 35px;
+	color: palevioletred;
+	border: dotted;
+	border-color: pink;
+	border-radius: 40px;	
+	}
+	
+h1 
+	{
+	background-color: pink;
+	font-family: 'Barlow', cursive;
+	font-size: 40px;
+	color: palevioletred;
+	border: solid;
+	border-color: pink;
+	border-radius: 45px;		
+	}
+
+h2
+	{
+	background-color: pink;
+	font-family:'Concert One', cursive;
+	font-size: 40px;
+	color: palevioletred;
+	border: dotted;
+	border-color: plum;
+	border-radius: 45px;	
+	}
+
+
+a:link, a:visited
+	{
+	background-color: indianred;
+	color: peachpuff;
+	text-allign: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 60px;
+	paddding: 55px;
+	}
+
+a:hover, a:active
+	{
+	background: salmon;
+	color: thistle;
+	}
